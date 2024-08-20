@@ -1,12 +1,46 @@
-Running locally in development mode
-To get started, just clone the repository and run npm install && npm run dev:
 
-git clone https://github.com/iaincollins/nextjs-starter.git
-npm install
-npm run dev
-Note: If you are running on Windows run install --noptional flag (i.e. npm install --no-optional) which will skip installing fsevents.tp://localhost:3000) with your browser to see the result.
+# Matrix Calculator
 
-##Demo Link
+
+
+
+## Installation
+
+1.Clone the repository:
+
+```bash
+  git clone https://github.com/sarangi-ankit/matrix_calculator.git
+
+```
+2.Navigate to the project directory:
+
+```bash
+  cd your-repository
+
+
+```
+3.Install dependencies:
+```bash
+  npm install
+
+
+
+```
+## Usage
+
+Run the development server::
+
+```bash
+  npm run dev
+
+
+```
+
+## Demo
+
+https://matrix-calculator-beige.vercel.app/
+
+
 
 
 
