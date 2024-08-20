@@ -1,7 +1,7 @@
 ##Installation
 
 1.Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/sarangi-ankit/matrix_calculator.git
 
 2.Navigate to the project directory:
 cd your-repository
@@ -9,7 +9,7 @@ cd your-repository
 3.Install dependencies:
 npm install
 
-## Getting Started
+## Usage
 
 run the development server:
 
